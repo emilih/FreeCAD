@@ -2,8 +2,6 @@
 ## Manual sobre FreeCAD
 Apunts de FreeCAD 1.0.1 
 
- 
-
 OS: Windows 11 build 26100 
 
 Architecture: x86_64 
